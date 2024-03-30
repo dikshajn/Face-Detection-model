@@ -10,7 +10,7 @@
 
 </head>
 <body>
-    <h1>Face Detection Model</h1>
+
     <p>📸 <b>Collecting and annotating images</b>:Gather a diverse dataset of images containing faces and annotate them with bounding boxes around the faces.</p>
     <p>🖼️ <b>Applying bounding augmentation</b>:Apply data augmentation techniques like flipping, rotation, and scaling to increase the variety of training data and improve model generalization.</p>
     <p>🔍 <b>Building a deep object detection model</b>: Construct a deep learning model for face detection, using architectures like YOLO (You Only Look Once) or SSD (Single Shot Multibox Detector).</p>
