@@ -1,6 +1,5 @@
 # Face-Detection-model
 
-
      <p>📸 <b>Collecting and Annotating Images:</b> Gather a diverse dataset of images containing faces and annotate them with bounding boxes around the faces.</p>
 
     <p>🖼️ <b>Applying Bounding Augmentation:</b> Apply data augmentation techniques like flipping, rotation, and scaling to increase the variety of training data and improve model generalization.</p>
