@@ -1,14 +1,8 @@
 # Face-Detection-model
 
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Face Detection Model</title>
 </head>
 <body>
-    <h1>Face Detection Model</h1>
+   
 
     <p>📸 <b>Collecting and Annotating Images:</b> Gather a diverse dataset of images containing faces and annotate them with bounding boxes around the faces.</p>
 
